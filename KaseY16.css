@@ -40,12 +40,41 @@ h3 {
   padding: 100px 200px 10px 200px;
 }
 
+h4{
+  color: black;
+  text-align: left;
+  font-size: 30px;
+  padding: 100px 200px 10px 200px;
+}
+
+h5{
+  color: black;
+  text-align: left;
+  font-size: 20px;
+  padding: 50px 200px 10px 200px;
+}
+
+div.position {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+}
+
+
+
 p {
   color: white;
   text-align: right;
   font-size: 30px;
   padding:20px 200px 100px 200px;
 }
+
+show-description {
+
+}
+
+ 
 
 iframe{
 
