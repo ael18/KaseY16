@@ -11,12 +11,6 @@ img {
   padding: 25px 50px 100px 50px;
 }
 
-div {
-  background-image: url(23331314_166180957307393_5580879571099636211_o.jpg);
-  background-attachment: fixed;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 
 ul {
   list-style-type: none;
@@ -38,17 +32,17 @@ h3{
   color: black;
   text-align: left;
   font-size: 30px;
-  padding: 10px 200px 10px 200px;
+  padding: 0px 0px 0px 0px;
 }
 
 h4{
   color: black;
   text-align: left;
   font-size: 20px;
-  padding: 30px 200px 0px 200px;
+  padding: 10px 10px 0px 0px;
 }
 
-div.position {
+.position {
   position: fixed;
   bottom: 0;
   right: 20px;
@@ -66,7 +60,32 @@ p {
   color: white;
   text-align: right;
   font-size: 30px;
-  padding:20px 200px 100px 200px;
+  padding:0px 10px 50px 200px;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.img2 {
+    float: right;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+
+.multiPic {
+	background: img src="23331314_166180957307393_5580879571099636211_o.jpg";
+	position: relative;
+	top:0px;
+
+}
+
+.multiPic:hover{
+	opacity:0.7;
 }
 
 show-description {
