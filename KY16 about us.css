@@ -63,30 +63,7 @@ p {
   padding:0px 10px 50px 200px;
 }
 
-.clearfix {
-    overflow: auto;
-}
 
-.img2 {
-    float: right;
-}
-
-.container {
-  position: relative;
-  width: 50%;
-}
-
-
-.multiPic {
-	background: img src="23331314_166180957307393_5580879571099636211_o.jpg";
-	position: relative;
-	top:0px;
-
-}
-
-.multiPic:hover{
-	opacity:0.7;
-}
 
 show-description {
 
