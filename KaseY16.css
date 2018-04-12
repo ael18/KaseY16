@@ -36,8 +36,12 @@ li {
 h3 {
   color: white;
   text-align: right;
-  font-size: 90px;
+  font-size: 40px;
   padding: 100px 200px 10px 200px;
+}
+
+h4 {
+  color: black
 }
 
 p {
@@ -48,5 +52,10 @@ p {
 }
 
 iframe{
+width: 100%
+}
 
+form {
+  background-color: black;
+  color: white;
 }
