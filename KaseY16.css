@@ -92,11 +92,18 @@ width: 300px;
 }
 
 
-h5{
-  color: black;
-  text-align: left;
-  font-size: 20px;
-  padding: 50px 200px 10px 200px;
+h5 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 100;
+  padding-top: 0px;
+
+}
+
+#contactform p {
+  text-align: center;
+  font-weight:100;
 }
 
 div.position {
@@ -118,14 +125,42 @@ div.position {
 
 
 
-
+input {
+  background-color: black;
+  border: 2px solid white;
+}
 
 iframe{
 width: 100%;
 background-color: black;
+margin-bottom: 0px;
+padding-bottom: 0px;
 }
+
+
+
+
+form {
+  font-weight: 100;
+  outline: white;
+  background-color: black;
+  padding: 5px;
+  margin-top: 0px;
+}
+
+#submit {
+  margin-top: 10px;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+
 
 #contactform {
   background-color: black;
   color: white;
+  padding-top: 40px;
+  padding-bottom: 50px;
 }
