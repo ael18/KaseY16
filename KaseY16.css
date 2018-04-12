@@ -40,16 +40,48 @@ h3 {
   padding: 100px 200px 10px 200px;
 }
 
+<<<<<<< HEAD
 h4 {
   color: black
 }
 
+=======
+h4{
+  color: black;
+  text-align: left;
+  font-size: 30px;
+  padding: 100px 200px 10px 200px;
+}
+
+h5{
+  color: black;
+  text-align: left;
+  font-size: 20px;
+  padding: 50px 200px 10px 200px;
+}
+
+div.position {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+}
+
+
+
+>>>>>>> f7b908177a32e1a0a053034dca8e6af9401f0e6e
 p {
   color: white;
   text-align: right;
   font-size: 30px;
   padding:20px 200px 100px 200px;
 }
+
+show-description {
+
+}
+
+ 
 
 iframe{
 width: 100%
